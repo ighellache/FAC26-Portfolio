@@ -26,6 +26,9 @@ async function start() {
       json just makes the response readable format
  }
  start();
+ //would be better to use thenables instead 
+ 
+ 
 
 # 2. Use callbacks to access values that aren’t available synchronously
 
